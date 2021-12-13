@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/calculator-app/static/css/main.9665f26d.chunk.css",
+    "main.js": "/calculator-app/static/js/main.d27fba93.chunk.js",
+    "main.js.map": "/calculator-app/static/js/main.d27fba93.chunk.js.map",
+    "runtime-main.js": "/calculator-app/static/js/runtime-main.04bbb6f5.js",
+    "runtime-main.js.map": "/calculator-app/static/js/runtime-main.04bbb6f5.js.map",
+    "static/js/2.c95c165d.chunk.js": "/calculator-app/static/js/2.c95c165d.chunk.js",
+    "static/js/2.c95c165d.chunk.js.map": "/calculator-app/static/js/2.c95c165d.chunk.js.map",
+    "index.html": "/calculator-app/index.html",
+    "static/css/main.9665f26d.chunk.css.map": "/calculator-app/static/css/main.9665f26d.chunk.css.map",
+    "static/js/2.c95c165d.chunk.js.LICENSE.txt": "/calculator-app/static/js/2.c95c165d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/calculator-app/static/media/tanya-pro-7-yJaWnwLK0-unsplash.46949096.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04bbb6f5.js",
+    "static/js/2.c95c165d.chunk.js",
+    "static/css/main.9665f26d.chunk.css",
+    "static/js/main.d27fba93.chunk.js"
+  ]
+}
